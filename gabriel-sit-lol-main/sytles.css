@@ -1,0 +1,26 @@
+:root{
+    --dourado-princiapl: #ffd700;
+    --azul-secundario: #2558ff;
+    --botao-azul: rgb(10, 10, 145);
+    --cor-de-fundo: rgba(255, 255, 255, 0.979);
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--dourado-princiapl);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.principal{
+    background-image: url("imagnes/fundo.jpeg");
+    background-repeat: no-repeat;
+    background-size: ;
+}
+
+.container{
+    height: 100vh;
+}
